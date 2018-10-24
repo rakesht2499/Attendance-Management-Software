@@ -1,0 +1,17 @@
+body{
+    background-image: url("../Images/whitebackground.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Slabo 27px', serif;
+}
+.panel-title{
+    text-align: center;
+    font-style: oblique;
+}
+.panel-body{
+    background-image: url("../Images/LoginBackground.jpg");
+    background-size: cover;
+    color: black;
+    font-size: 1.5em;    
+    opacity: 0.9;
+}
